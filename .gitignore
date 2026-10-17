@@ -1,0 +1,19 @@
+.toolchain/
+.keys/
+build/
+*.log
+.DS_Store
+local.properties
+evidence/*screenshot.json
+evidence/apple-music-page.json
+evidence/browser-targets.json
+
+# Account diagnostics and unrelated local work
+evidence/
+HANDOFF.md
+fut-workshop/
+*.p12
+*.jks
+*.keystore
+.env
+.env.*
